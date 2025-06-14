@@ -1,1 +1,3 @@
-README Evaluación Final del Módulo 1. Zara Valentinova Pashova
+README Evaluación Final del Módulo 1. Python
+Realizado por: Zara Valentinova Pashova
+Descipción: El objetivo principal de esta evaluación es implementar una clase llamada TiendaOnline, que simula el comportamiento básico de una tienda virtual. Esta clase incluye funcionalidades como gestión de inventario, búsqueda y actualización de productos, y cálculo del valor total en stock. El desarrollo se realiza en un Jupyter Notebook, donde se implementa la clase y se prueban todos sus métodos con ejemplos prácticos. A parte de los ejercicios obligatorios, se inluye el primero de los ejercicios de la parte Bonus.
